@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gymflix/static/css/main.e6c13ad2.css",
+    "main.js": "/gymflix/static/js/main.98c66410.js",
+    "static/js/787.3dbacea2.chunk.js": "/gymflix/static/js/787.3dbacea2.chunk.js",
+    "static/media/vnw-logo.png": "/gymflix/static/media/vnw-logo.e48e12ca9437334d2779.png",
+    "static/media/logo.png": "/gymflix/static/media/logo.d8f338b3ee31bebb364f.png",
+    "index.html": "/gymflix/index.html",
+    "main.e6c13ad2.css.map": "/gymflix/static/css/main.e6c13ad2.css.map",
+    "main.98c66410.js.map": "/gymflix/static/js/main.98c66410.js.map",
+    "787.3dbacea2.chunk.js.map": "/gymflix/static/js/787.3dbacea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.98c66410.js"
+  ]
+}
